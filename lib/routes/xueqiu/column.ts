@@ -10,7 +10,7 @@ export const route: Route = {
     path: '/column/:id',
     categories: ['finance'],
     example: '/xueqiu/column/9962554712',
-    parameters: { id: '用户 id, 可在用户主页 URL 中找到' },
+    parameters: { id: '2681290304' },
     features: {
         requireConfig: false,
         requirePuppeteer: false,
